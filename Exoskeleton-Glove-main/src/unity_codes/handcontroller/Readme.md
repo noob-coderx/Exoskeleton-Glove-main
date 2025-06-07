@@ -1,0 +1,10 @@
+   - **Folder Name**: Name it according to the microcontroller, e.g., `Microcontroller1`, `Microcontroller2`.
+   - **Description**: A brief description of what each microcontroller’s source code does and its role in the project in a README.md file.
+   - etailed instructions on how to upload and run the code on the microcontroller. This should include:
+  - The microcontroller model (e.g. STM32, RPi Pico).
+  - The Integrated Development Environment (IDE) used for programming (e.g., STM32CubeIDE, VSCode, Thonny IDE).
+  - Steps for compiling and uploading the code to the device.
+  - Example command to upload (if applicable).
+  - 3. **Code Comments**:
+- Every source file should be properly commented to describe the purpose and function of each section of code.
+- If you have made modifications to an existing code template or framework, comment clearly with your team name and indicate what changes were made.
